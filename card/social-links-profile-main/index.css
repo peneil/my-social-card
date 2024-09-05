@@ -1,0 +1,47 @@
+body{
+    background-color: hsl(0, 0%, 8%) ;
+    color: white;
+}
+
+.box{
+    
+
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+
+ background-color:  hsl(0, 0%, 12%) ;
+ width: 20%;
+ height: 20%;
+ border: 5px solid #FFF;
+    padding: 1%;
+    margin: auto;
+     text-align: center;
+img{
+    border-radius: 70%;
+}
+.h1{
+    margin: 0%;
+    font-style: bold;
+    font-size: large;
+}
+.location{
+
+color:     hsl(75, 94%, 57%);
+margin-top: 10px;
+}
+#bio{margin-top: 20px;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    display: block;
+    background-color: hsl(0, 0%, 20%);
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+}
+
+
